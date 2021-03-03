@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Contenidos"
+    url: /contenidos/
+  - title: "Apuntes"
+    url: /apuntes/
+  - title: "Prácticos"
+    url: /practicos/
+  - title: "Novedades"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
