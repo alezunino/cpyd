@@ -6,4 +6,5 @@ main:
   - title: "Prácticos"
     url: /practicos/
   - title: "Novedades"
-    url: /posts/
+    url: /novedades/index.html
+  
