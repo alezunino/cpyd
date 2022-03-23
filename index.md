@@ -18,3 +18,4 @@ El curso tiene por objetivo introducir al alumno de la [Carrera Ingeniería de S
 
 - [Dr. Alejandro Zunino](https://users.exa.unicen.edu.ar/~azunino/)
 - [Dr. Cristian Mateos](https://users.exa.unicen.edu.ar/~cmateos/)
+- Dr. Juan Manuel Rodriguez
