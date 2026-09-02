@@ -17,13 +17,12 @@ PPTs y clases grabadas disponibles en classroom.
 <!-- 4. [Desktop grids, BOINC](https://app.box.com/s/p8zhm041vv91ibhwzzpe8onfj741mkn4) -->
 <!-- 5. [OpenMP](https://app.box.com/s/54f2yov4x4hjc8k47cwy5is8myiqxkam) -->
 <!-- 6. [API de concurrencia Java](https://app.box.com/s/p5pcjuncs21w22oqxgzq0dfflp3f4rog) -->
-
+<!-- Go https://app.box.com/s/cnbonfwmwkbi1errydhhxj87bn5w7sgb -->
 
 ## Herramientas
 
 1. [Compilador C/C++ para Windows con soporte OpenMP](http://www.mingw.org/)
 2. [IDE C/C++ para Linux/Windows](http://www.codeblocks.org/downloads)
-3. [JPPF](https://www.jppf.org/)
-
+3. [El lenguaje Go](https://go.dev/dl/)
 
 
